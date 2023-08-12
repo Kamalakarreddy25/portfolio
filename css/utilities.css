@@ -14,6 +14,7 @@
     border:2px solid transparent;
     outline:none;
     cursor:pointer;
+    border-radius:20% ;
     text-transform: uppercase;
     transition:all .3s ease;
     -webkit-transition:all .3s ease;
